@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   root "pages#home"
-  get "blog" => "pages#blog" 
+  get "resume" => "pages#resume" 
   get "contact" => "pages#contact"
 
   # The priority is based upon order of creation: first created -> highest priority.
