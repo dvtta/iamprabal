@@ -14,7 +14,33 @@ $navbar-height: 45px;
 	border: 0;
 }
 
-.center-body{
-	
+.button-style1{
+	border-radius: 10px;
+    height: 50px;
+	width: 150px;
+    border: 5px solid #7f8c8d;
+    text-align: center;
+}
 
+.button-style2{
+	border-radius: 10px;
+    height: 50px;
+	width: 200px;
+    border: 5px solid #7f8c8d;
+    text-align: center;
+}
+.button-style3{
+	border-radius: 10px;
+    height: 50px;
+	width: 260px;
+    border: 5px solid #7f8c8d;
+    text-align: center;
+}
+
+.p-adjust{
+	
+	font-size: 15px;
+	margin-top:15px; 
+	padding-right:2px;
+	padding:5px;
 }
