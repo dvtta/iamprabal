@@ -32,14 +32,18 @@ a:hover{
 	width: 150px;
     border: 5px solid #7f8c8d;
     text-align: center;
+    margin-left:10px;
+    margin-top:20px;
 }
 
 .button-style2{
 	border-radius: 10px;
     height: 50px;
-	width: 200px;
+	width: 260px;
     border: 5px solid #7f8c8d;
     text-align: center;
+    margin-left:10px;
+    margin-top:20px;
 }
 .button-style3{
 	border-radius: 10px;
@@ -47,23 +51,79 @@ a:hover{
 	width: 260px;
     border: 5px solid #7f8c8d;
     text-align: center;
+    margin-left:10px;
+    margin-top:20px;
 }
 
 .p-adjust{
 	
+	text-align: left;
 	font-size: 15px;
 	margin-top:15px; 
 	padding-right:2px;
 	padding:5px;
+	margin-bottom: 5px;
+	
 }
 .p-footer{
 
+
 }
 
+.left-middle{
+	
+	height: 180px;
+	width: 350px;
+	/*border: 2px solid black; */
+	border-radius: 5px;
+	background-color: #ecf0f1;
+	float: left;
+	margin:10px;
+}
 
+.middle-middle{
+	
+	height: 180px;
+	width: 380px;
+	/*border: 2px solid black; */
+	border-radius: 5px;
+	background-color: #ecf0f1;
+	float: left;
+	margin:10px;
+}
 
+.right-middle{
+	
+	height: 420px;
+	width: 350px;
+	/*border: 2px solid black; */
+	border-radius: 5px;
+	background-color: #ecf0f1;
+	float: right;
+	margin:10px;
+}
 
+.left-bottom{
+	
+	height: 220px;
+	width: 750px;
+	/*border: 2px solid black; */
+	border-radius: 5px;
+	background-color: #ecf0f1;
+	float: left;
+	margin:10px;
+}
 
+.bottom-bottom{
+	
+	height: 150px;
+	width: 1120px;
+	/*border: 2px solid black; */
+	border-radius: 5px;
+	background-color: #ecf0f1;
+	float: left;
+	margin:10px;
+}
 
 
 
