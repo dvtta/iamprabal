@@ -7,6 +7,7 @@ $navbar-default-bg: black;
 $navbar-default-link-color: white;
 $navbar-height: 45px;
 $jumbotron-bg: white;
+$navbar-hover-color: white;
 
 
 
@@ -21,6 +22,7 @@ a:hover{
 	text-decoration: none;
 	color: white;
 }
+.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{color:#fff;bacround-color:transparent}.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{color:#fff;background-color:black}
 
 .logo{
 	
