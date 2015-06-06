@@ -27,7 +27,10 @@ a:hover{
 .logo{
 	
 	color: white;
-
+#clear{
+	
+	clear:both;
+}
 	
 }
 
@@ -128,6 +131,55 @@ unicode-bidi: bidi-override;
 	margin:10px;
 }
 
+.post{
+	
+padding:10px;
+text-align: justify;
+
+}
+
+.col-top{
+background: #FFF;	
+border-radius: 7px;
+padding:30px;
+}
+
+.col-left{
+padding:30px;
+background: #FFF;	
+border-radius: 7px;
+margin-top:20px;
+
+}
+
+.col-right{
+padding:30px;
+margin-left: 20px;
+border-radius:7px;	
+background: #FFF;
+border-left: 3px solid #BBB;
+border-bottom: 3px solid #BBB;
 
 
+}
 
+.col-right img {
+	border-radius: 300px;
+}
+
+.widget{
+	margin-bottom: 45px;
+}
+
+.post-meta {
+color: #999;
+padding: 10px 0px;
+border-top: #BBB solid 1px;
+}
+
+blockquote {
+	border-left: 5px #BBB solid;
+	padding-left: 10px;
+	margin-left: 0;
+	font-style: italic;
+}
