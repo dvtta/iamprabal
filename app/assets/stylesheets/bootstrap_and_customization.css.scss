@@ -1,12 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
 
-$body-bg: #ecf0f1;
+$body-bg: #D9F25A;
 $font-family-sans-serif:                'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-default-bg: black;
 $navbar-default-link-color: white;
 $navbar-height: 45px;
-$jumbotron-bg: white;
+$jumbotron-bg: #34495e;
 $navbar-hover-color: white;
 
 
@@ -44,29 +44,34 @@ unicode-bidi: bidi-override;
 	border-radius: 10px;
     height: 50px;
 	width: 170px;
-    border: 5px solid #7f8c8d;
+    border: 5px solid #D9F25A;
     text-align: center;
     margin-left:10px;
     margin-top:20px;
+    color:white;
 }
 
 .button-style2{
 	border-radius: 10px;
     height: 50px;
 	width: 200px;
-    border: 5px solid #7f8c8d;
+    border: 5px solid #D9F25A;
     text-align: center;
     margin-left:10px;
     margin-top:20px;
+    color:white;
+
 }
 .button-style3{
 	border-radius: 10px;
     height: 50px;
 	width: 240px;
-    border: 5px solid #7f8c8d;
+    border: 5px solid #D9F25A;
     text-align: center;
     margin-left:10px;
     margin-top:20px;
+    color:white;
+
 }
 
 .p-adjust{
@@ -74,6 +79,7 @@ unicode-bidi: bidi-override;
 	text-align: left;
 	font-size: 15px;
 	margin-top:15px; 
+	color:white;
 	
 }
 .p-footer{
